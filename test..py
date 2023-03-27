@@ -18,9 +18,9 @@ def o():
     print(" \033[38;5;196m[\033[38;5;195mE\033[38;5;196m]\033[38;5;195m EXIT")
     print(" \033[38;5;46m××××××××××××××××××××××××××××××××××××××××××××××××")
     Alamin = input(' \033[38;5;196m[\033[38;5;195m•\033[38;5;196m]\033[38;5;45m Choice Option \033[38;5;196m: ')
-    if Alamin == 'A':
-        Alamin()
-    if Alamin == 'B':
+    if HASAN == 'A': 
+         Hasan() 
+     if HASAN == 'B':
         os.system('xdg-open https://www.facebook.com/copy.link.erorr404')
         return None
     if Alamin == 'C':
